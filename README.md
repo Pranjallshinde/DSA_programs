@@ -1,6 +1,6 @@
 
 # Data Structure Lab Experiments
-### 1) Name     :  Pranjal Shinde
+### 1) Name     : Pranjal Shinde
 ### 2) Roll No  :  56
 ### 3) Batch    :  C
 
